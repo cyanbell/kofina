@@ -1,6 +1,6 @@
 # Kofina
 
-Nothing to say anymore.
+Kofina is a API testing tool.
 
 ## License
 
